@@ -1,4 +1,4 @@
-# Walmart Sales Analysis
+# Retail Sales Analysis
 
 This project aims to explore Walmart sales data to understand top-performing branches and products, sales trends of different products, and customer behavior. The goal is to study how sales strategies can be improved and optimized. 
 
