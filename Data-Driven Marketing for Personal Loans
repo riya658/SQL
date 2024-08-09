@@ -1,0 +1,2 @@
+# Data-Driven Marketing for Personal Loans
+Thera Bank is enhancing its marketing strategies with data-driven customer segmentation, analyzing demographics, financial profiles, and behavior. The project targets specific groups with a 30% higher likelihood of switching from liabilities to personal loans. By utilizing digital channels and personalized messaging, the initiative aims to increase campaign success by 25%, reduce marketing costs by 15%, and improve customer retention by 20%, ultimately driving significant revenue growth.
